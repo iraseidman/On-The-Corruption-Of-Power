@@ -10,7 +10,7 @@ After collecting data from a wide variety of sources including the UN Developmen
 Initial exploratory data analysis found strong correlations between less corruption and a better economy, freedom, and happiness. Other strong correlations existed between life expectancy, geographic denity and a few other features to a lesser extent. The best model itself used principal component analysis with a rando forest model which though statistcal inference cannot be drawn from this model it is able to predict nearly half of the variance bewteen the outcomes observed and the mean (with an r squared score of .463)
            
 ## Data Description
-The data utilized for this project came from Our World In Data, Kaggle, the University of Grottingen, the UN, World Population Review, and the CIA. From these sources data was merged into one dataframe, please see the data dictionary below:
+The data utilized for this project came from Our World In Data, Kaggle, the University of Groningen, the United Nations, World Population Review, and the CIA. From these sources data was merged into one dataframe, please see the data dictionary below:
 
 | Feature Name | Description |
 |    -----     |   -------   |
